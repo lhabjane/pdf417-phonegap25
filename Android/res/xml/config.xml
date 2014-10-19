@@ -55,6 +55,9 @@
     <plugin name="Echo" value="org.apache.cordova.Echo" />
     <plugin name="Globalization" value="org.apache.cordova.Globalization"/>
     <plugin name="InAppBrowser" value="org.apache.cordova.InAppBrowser"/>
+
+    <!-- Required by Pdf417 Plugin -->
+    <plugin name="Pdf417Scanner" value="com.phonegap.plugins.pdf417.Pdf417Scanner"/>
 </plugins>
 </cordova>
 
